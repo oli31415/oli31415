@@ -6,10 +6,6 @@
 </h4>
 
 <h4 align="center">
-🌱 I’m currently learning Java
-</h4>
-
-<h4 align="center">
 💬 Ask me all about Ruby and Phyton, i am happy to help you out!
 </h4>
 
