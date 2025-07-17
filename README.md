@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oliver</h1>
+<h1 align="center">Hi, I'm Mia</h1>
 <h3 align="center">A passionate fullstack developer based in Switzerland</h3>
 
 <h4 align="center">
@@ -10,7 +10,7 @@
 </h4>
 
 <h4 align="center">
-📫 Write me an e-mail: oliver@codelab91.com
+📫 Write me an e-mail: mia@codelab91.com
 </h4>
 
 <h3 align="center">Connect with me:</h3>
